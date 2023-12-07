@@ -1,0 +1,49 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "C#-Generic-Collections-Datastructure/1.0.0": {
+        "dependencies": {
+          "C#-Generic-Collections-Datastructure.Domain": "1.0.0"
+        },
+        "runtime": {
+          "C#-Generic-Collections-Datastructure.dll": {}
+        }
+      },
+      "C#-Generic-Collections-Datastructure.Domain/1.0.0": {
+        "dependencies": {
+          "C#-Generic-Collections-Datastructure.Helpers": "1.0.0"
+        },
+        "runtime": {
+          "C#-Generic-Collections-Datastructure.Domain.dll": {}
+        }
+      },
+      "C#-Generic-Collections-Datastructure.Helpers/1.0.0": {
+        "runtime": {
+          "C#-Generic-Collections-Datastructure.Helpers.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "C#-Generic-Collections-Datastructure/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "C#-Generic-Collections-Datastructure.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "C#-Generic-Collections-Datastructure.Helpers/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

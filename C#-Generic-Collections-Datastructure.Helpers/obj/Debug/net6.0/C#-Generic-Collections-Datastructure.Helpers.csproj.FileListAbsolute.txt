@@ -1,0 +1,11 @@
+C:\Users\User\Desktop\Code Academy\Tasks\Task-4_09.10.23\C#-Generic-Collections-Datastructure\C#-Generic-Collections-Datastructure.Helpers\bin\Debug\net6.0\C#-Generic-Collections-Datastructure.Helpers.deps.json
+C:\Users\User\Desktop\Code Academy\Tasks\Task-4_09.10.23\C#-Generic-Collections-Datastructure\C#-Generic-Collections-Datastructure.Helpers\bin\Debug\net6.0\C#-Generic-Collections-Datastructure.Helpers.dll
+C:\Users\User\Desktop\Code Academy\Tasks\Task-4_09.10.23\C#-Generic-Collections-Datastructure\C#-Generic-Collections-Datastructure.Helpers\bin\Debug\net6.0\C#-Generic-Collections-Datastructure.Helpers.pdb
+C:\Users\User\Desktop\Code Academy\Tasks\Task-4_09.10.23\C#-Generic-Collections-Datastructure\C#-Generic-Collections-Datastructure.Helpers\obj\Debug\net6.0\C#-Generic-Collections-Datastructure.Helpers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\Code Academy\Tasks\Task-4_09.10.23\C#-Generic-Collections-Datastructure\C#-Generic-Collections-Datastructure.Helpers\obj\Debug\net6.0\C#-Generic-Collections-Datastructure.Helpers.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Code Academy\Tasks\Task-4_09.10.23\C#-Generic-Collections-Datastructure\C#-Generic-Collections-Datastructure.Helpers\obj\Debug\net6.0\C#-Generic-Collections-Datastructure.Helpers.AssemblyInfo.cs
+C:\Users\User\Desktop\Code Academy\Tasks\Task-4_09.10.23\C#-Generic-Collections-Datastructure\C#-Generic-Collections-Datastructure.Helpers\obj\Debug\net6.0\C#-Generic-Collections-Datastructure.Helpers.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Code Academy\Tasks\Task-4_09.10.23\C#-Generic-Collections-Datastructure\C#-Generic-Collections-Datastructure.Helpers\obj\Debug\net6.0\C#-Generic-Collections-Datastructure.Helpers.dll
+C:\Users\User\Desktop\Code Academy\Tasks\Task-4_09.10.23\C#-Generic-Collections-Datastructure\C#-Generic-Collections-Datastructure.Helpers\obj\Debug\net6.0\refint\C#-Generic-Collections-Datastructure.Helpers.dll
+C:\Users\User\Desktop\Code Academy\Tasks\Task-4_09.10.23\C#-Generic-Collections-Datastructure\C#-Generic-Collections-Datastructure.Helpers\obj\Debug\net6.0\C#-Generic-Collections-Datastructure.Helpers.pdb
+C:\Users\User\Desktop\Code Academy\Tasks\Task-4_09.10.23\C#-Generic-Collections-Datastructure\C#-Generic-Collections-Datastructure.Helpers\obj\Debug\net6.0\ref\C#-Generic-Collections-Datastructure.Helpers.dll

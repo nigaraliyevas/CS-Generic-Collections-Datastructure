@@ -1,0 +1,14 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+    <RootNamespace>C__Generic_Collections_Datastructure.Domain</RootNamespace>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\C#-Generic-Collections-Datastructure.Helpers\C#-Generic-Collections-Datastructure.Helpers.csproj" />
+  </ItemGroup>
+
+</Project>

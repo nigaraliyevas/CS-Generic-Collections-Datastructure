@@ -1,0 +1,109 @@
+{
+  "version": 3,
+  "targets": {
+    "net6.0": {
+      "C#-Generic-Collections-Datastructure.Domain/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "dependencies": {
+          "C#-Generic-Collections-Datastructure.Helpers": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/C#-Generic-Collections-Datastructure.Domain.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/C#-Generic-Collections-Datastructure.Domain.dll": {}
+        }
+      },
+      "C#-Generic-Collections-Datastructure.Helpers/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "compile": {
+          "bin/placeholder/C#-Generic-Collections-Datastructure.Helpers.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/C#-Generic-Collections-Datastructure.Helpers.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "C#-Generic-Collections-Datastructure.Domain/1.0.0": {
+      "type": "project",
+      "path": "../C#-Generic-Collections-Datastructure.Domain/C#-Generic-Collections-Datastructure.Domain.csproj",
+      "msbuildProject": "../C#-Generic-Collections-Datastructure.Domain/C#-Generic-Collections-Datastructure.Domain.csproj"
+    },
+    "C#-Generic-Collections-Datastructure.Helpers/1.0.0": {
+      "type": "project",
+      "path": "../C#-Generic-Collections-Datastructure.Helpers/C#-Generic-Collections-Datastructure.Helpers.csproj",
+      "msbuildProject": "../C#-Generic-Collections-Datastructure.Helpers/C#-Generic-Collections-Datastructure.Helpers.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net6.0": [
+      "C#-Generic-Collections-Datastructure.Domain >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\User\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\User\\Desktop\\Code Academy\\Tasks\\Task-4_09.10.23\\C#-Generic-Collections-Datastructure\\C#-Generic-Collections-Datastructure\\C#-Generic-Collections-Datastructure.csproj",
+      "projectName": "C#-Generic-Collections-Datastructure",
+      "projectPath": "C:\\Users\\User\\Desktop\\Code Academy\\Tasks\\Task-4_09.10.23\\C#-Generic-Collections-Datastructure\\C#-Generic-Collections-Datastructure\\C#-Generic-Collections-Datastructure.csproj",
+      "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\User\\Desktop\\Code Academy\\Tasks\\Task-4_09.10.23\\C#-Generic-Collections-Datastructure\\C#-Generic-Collections-Datastructure\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net6.0"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "projectReferences": {
+            "C:\\Users\\User\\Desktop\\Code Academy\\Tasks\\Task-4_09.10.23\\C#-Generic-Collections-Datastructure\\C#-Generic-Collections-Datastructure.Domain\\C#-Generic-Collections-Datastructure.Domain.csproj": {
+              "projectPath": "C:\\Users\\User\\Desktop\\Code Academy\\Tasks\\Task-4_09.10.23\\C#-Generic-Collections-Datastructure\\C#-Generic-Collections-Datastructure.Domain\\C#-Generic-Collections-Datastructure.Domain.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net6.0": {
+        "targetAlias": "net6.0",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.402\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}
