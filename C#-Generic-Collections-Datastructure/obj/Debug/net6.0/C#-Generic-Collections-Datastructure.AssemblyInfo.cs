@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("C#-Generic-Collections-Datastructure")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+16525174b2d5dfaa3885ab2199bda23e1633cc47")]
 [assembly: System.Reflection.AssemblyProductAttribute("C#-Generic-Collections-Datastructure")]
 [assembly: System.Reflection.AssemblyTitleAttribute("C#-Generic-Collections-Datastructure")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

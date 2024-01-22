@@ -7,6 +7,7 @@
         public string Name { get; set; }
         public  double Price { get; set; }
         protected int Count { get; set; }
+        public int Stock { get; set; }
         protected static double TotalInCome { get; set; }
         public abstract void Sell();
         public abstract void ShowInfo();

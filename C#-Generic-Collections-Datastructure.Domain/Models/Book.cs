@@ -12,6 +12,7 @@ namespace C__Generic_Collections_Datastructure.Domain.Models
             AuthorName = authorName;
             PageCount = pageCount;
             Count = countBook;
+            Stock = Count;
         }
         public override void Sell()
         {
@@ -27,9 +28,7 @@ namespace C__Generic_Collections_Datastructure.Domain.Models
         }
         public override void ShowInfo()
         {
-            if (Count > 0)
-                Console.WriteLine($"Book Name:{Name}\nPrice: {Price}\nAuthor Name: {AuthorName}\nPage Count: {PageCount}\nCount={Count}");
-            else Console.WriteLine($"Book Name:{Name}\nPrice: {Price}\nAuthor Name: {AuthorName}\nPage Count: {PageCount}\nCount={Count}");
+            Console.WriteLine($"Book Name:{Name}\nPrice: {Price}\nAuthor Name: {AuthorName}\nPage Count: {PageCount}\nTotal Book Count: {Stock}\nSold:{Stock-Count}\nRemaining Book Count={Count}");
         }
         public static void Income()
         {
